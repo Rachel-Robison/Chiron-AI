@@ -27,7 +27,16 @@ The platform includes tools like text-to-speech, speech-to-text, interactive ava
 ---
 
 ## 📂 Project Status  
-This is a **business concept** developed as part of the **MBA program at the University of Illinois Urbana-Champaign, Gies College of Business**. It represents a milestone project and is not yet in production.
+This is a **business concept** developed as part of the **MBA program at the University of Illinois Urbana-Champaign, Gies College of Business**.  
+It is currently at the concept stage and is not yet in production.
+
+## Next Steps
+Chiron A.I. is positioned for real-world prototyping as AI capabilities, accessibility standards, and funding opportunities mature.  
+Future development could include:
+- Building a functional prototype  
+- Partnering with educators and Title 1 schools  
+- Running pilot programs to test learning outcomes  
+
 
 ---
 
